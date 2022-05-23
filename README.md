@@ -1,6 +1,6 @@
 Chat APP is a real time chat application.
 
-Usage
+Usage :
   npm install
   npm run dev
 
